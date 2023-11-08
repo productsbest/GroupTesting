@@ -1,0 +1,38 @@
+----------------------------REQUIREMENTS----------------------------
+
+
+-------Room Database --deep understanding
+-------Android SDK   --deep understanding
+-------MVC, 
+       MVP, 
+       View Binding, 
+       Data Binding, 
+       & MVVM Patterns -- good understanding
+-------Restful Applications -- solid understanding
+-------Software Testing
+
+----------------------------ADVANCE----------------------------
+
+-------Unit Testing
+-------SQL
+-------WCL/Web Service
+-------React Native
+
+----------------------------SKILSS----------------------------
+
+-------Android Studio
+-------AppsFlyer
+-------Cardlo
+-------Figma
+-------Firebase
+-------Github
+-------Koin
+-------Lottie
+-------MapBox
+-------Moshi
+-------OKhttp
+-------Picasso
+-------RxJava
+-------Scoop
+-------Zoom
+-------Kotlin
